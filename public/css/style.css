@@ -1,0 +1,115 @@
+ @import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&family=Nunito:wght@400;700&family=Outfit:wght@300;400;600&family=Overpass:wght@400;700&family=Poppins:ital,wght@0,700;1,400;1,800&family=Roboto:ital,wght@0,400;0,500;1,400&display=swap');
+
+body {
+    margin: 0;
+    background-color: rgba(245, 238, 238, 0.89);
+}
+nav{
+    margin-bottom: 40px;
+}
+img {
+    max-width: 100%;
+    transition: all 0.7s ;
+}
+p {
+    padding:0px 20px 20px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+.content {
+    padding: 10px;
+  border: 1px solid white;
+    border-radius: 4%;  
+    margin-top: 10px;
+    margin-bottom: 8px;
+}
+
+.Hover-effect:hover{
+    transform:  translateY(-3px) scale(1.01);
+
+}
+.Hover-effect:hover img{
+    transform:  translateY(-5px) scale(1.02);
+    box-shadow: 10px 9px 17px -10px rgba(0,0,0,0.28);
+}
+h3{
+    font-size: 1.25rem;
+    color:cyan;
+    padding: 20px;
+    background-color: rgb(2, 41, 41);
+    /* border: 1px solid white;
+    border-radius: 4%; */
+}
+
+/* h2{
+    font-size: 1.55rem;
+    color: white;
+    padding: 20px;
+} */
+.news-container{
+    margin-bottom: 69px;
+    padding: 0 1rem;
+    padding-top: 92px;
+    background-color:white;
+}
+.news{
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(300px,1fr));
+    grid-gap: 2rem;
+    background-color:white;
+
+}
+
+.news-box{
+    transition: all 0.3s ;
+    text-decoration: none;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(66, 64, 64);
+    padding: 20px;
+}
+
+.news-box:hover{
+    text-decoration: none;
+    color: rgb(29, 25, 25);;
+    box-shadow: 0 3px 3px rgba(0,0,0,0.16), 0 3px 3px rgba(0,0,0,0.23);
+}
+
+
+.searc-bar{
+    justify-content: center;
+}
+
+/* #effect ********************** */
+
+.Hover-effect {
+    position: relative;
+}
+:root{
+    --underline_color:yellow;
+    --underline-hight:0.175rem;
+}
+.Hover-effect::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: var(--underline-hight);
+    background-color: var(--underline_color);
+    left: 0;
+    bottom: 0;
+    transform: scale(0, 1);
+    transition: transform 0.3s ease;
+}
+
+
+
+.Hover-effect:hover::after {
+    transform: scale(1, 1);
+}
+
