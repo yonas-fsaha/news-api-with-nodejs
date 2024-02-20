@@ -24,7 +24,7 @@ The News App project is designed to fetch and display news articles from various
 ## Prerequisites
 Before you begin, make sure you have the following installed on your system:
 
-## Node.js
+##### Node.js
 npm (Node Package Manager)
 Installation
 Clone the repository:
