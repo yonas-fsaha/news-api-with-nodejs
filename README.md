@@ -27,9 +27,9 @@ Before you begin, make sure you have the following installed on your system:
 ##### Node.js
 ##### npm (Node Package Manager)
 ## Installation
-1-Clone the repository:git clone https://github.com/your-username/news-app.git
-2-Navigate to the project directory:cd news-app
-Install dependencies:npm install
+##### 1-Clone the repository:git clone https://github.com/your-username/news-app.git
+##### 2-Navigate to the project directory:cd news-app
+##### 3-Install dependencies:npm install
 Usage
 Get your free API key from the News API website.
 
