@@ -14,7 +14,7 @@ License
 # Introduction
 The News App project is designed to fetch and display news articles from various sources using a free News API. It aims to provide users with a simple and intuitive interface to stay informed about the latest news.
 
-Features
+# Features
 Top Headlines: View the latest top headlines from various news sources.
 Search: Search for specific news articles based on keywords or topics.
 Categories: Explore news articles based on different categories such as business, technology, sports, and more.
