@@ -16,7 +16,7 @@ The News App project is designed to fetch and display news articles from various
 
 # Features
 ##### Top Headlines: View the latest top headlines from various news sources.
-Search: Search for specific news articles based on keywords or topics.
+##### Search: Search for specific news articles based on keywords or topics.
 Categories: Explore news articles based on different categories such as business, technology, sports, and more.
 Responsive Design: The app is built with responsiveness in mind, ensuring a seamless experience across different devices.
 
