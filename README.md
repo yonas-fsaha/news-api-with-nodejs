@@ -27,10 +27,7 @@ Before you begin, make sure you have the following installed on your system:
 ##### Node.js
 ##### npm (Node Package Manager)
 ## Installation
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/news-app.git
+1-Clone the repository:git clone https://github.com/your-username/news-app.git
 Navigate to the project directory:
 bash
 Copy code
