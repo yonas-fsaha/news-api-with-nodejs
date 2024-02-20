@@ -29,10 +29,7 @@ Before you begin, make sure you have the following installed on your system:
 ## Installation
 1-Clone the repository:git clone https://github.com/your-username/news-app.git
 2-Navigate to the project directory:cd news-app
-Install dependencies:
-bash
-Copy code
-npm install
+Install dependencies:npm install
 Usage
 Get your free API key from the News API website.
 
