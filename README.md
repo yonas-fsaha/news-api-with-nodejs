@@ -21,7 +21,7 @@ The News App project is designed to fetch and display news articles from various
 ##### Responsive Design: The app is built with responsiveness in mind, ensuring a seamless experience across different devices.
 
 # Getting Started
-Prerequisites
+## Prerequisites
 Before you begin, make sure you have the following installed on your system:
 
 Node.js
