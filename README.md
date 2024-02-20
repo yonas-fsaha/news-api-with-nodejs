@@ -33,8 +33,7 @@ Before you begin, make sure you have the following installed on your system:
 ## Usage
 ##### Start the development server:npm start
 ##### Open your browser and navigate to http://localhost:3000 to view the app.
-Contributing
-If you would like to contribute to the project, please follow the guidelines outlined in the CONTRIBUTING.md file.
 
-# you can find any news in my project
+
+# you can find all recently news in my project
 # i build this by using of free news public api
