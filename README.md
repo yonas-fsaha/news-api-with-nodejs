@@ -30,19 +30,9 @@ Before you begin, make sure you have the following installed on your system:
 ##### 1-Clone the repository:git clone https://github.com/your-username/news-app.git
 ##### 2-Navigate to the project directory:cd news-app
 ##### 3-Install dependencies:npm install
-Usage
-Get your free API key from the News API website.
-
-Create a .env file in the root directory of the project and add your API key:
-
-plaintext
-Copy code
-REACT_APP_NEWS_API_KEY=your-api-key
-Start the development server:
-bash
-Copy code
-npm start
-Open your browser and navigate to http://localhost:3000 to view the app.
+## Usage
+##### Start the development server:npm start
+##### Open your browser and navigate to http://localhost:3000 to view the app.
 Contributing
 If you would like to contribute to the project, please follow the guidelines outlined in the CONTRIBUTING.md file.
 
