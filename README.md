@@ -32,7 +32,7 @@ Before you begin, make sure you have the following installed on your system:
 ##### 3-Install dependencies:npm install
 ## Usage
 ##### Start the development server:npm start
-##### Open your browser and navigate to http://localhost:3000 to view the app.
+##### Open your browser and navigate to http://localhost:9999 to view the app.
 
 
 # you can find all recently news in my project
