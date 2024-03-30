@@ -3,7 +3,7 @@
 Welcome to the News App project! This application leverages a free News API to provide users with up-to-date and relevant news articles. This README file will guide you through setting up and running the project.
 
 ### Table of Contents
-#### Introduction
+### Introduction
 ### Features
 ### Getting Started
 Prerequisites
