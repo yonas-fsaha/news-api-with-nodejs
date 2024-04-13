@@ -5,7 +5,7 @@ Welcome to the News App project! This application leverages a free News API to p
 ## Table of Contents
 ### Introduction
 ### Features
-## Getting Started
+### Getting Started
 Prerequisites
 Installation
 Usage
