@@ -8,7 +8,7 @@ Welcome to the News App project! This application leverages a free News API to p
 ### Getting Started
 
 Prerequisites
-->Installation
+-> Installation
 ->Usage
 ->Contributing
 ->License
