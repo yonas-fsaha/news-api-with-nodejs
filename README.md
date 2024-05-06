@@ -9,7 +9,7 @@ Welcome to the News App project! This application leverages a free News API to p
 
 Prerequisites
 ->Installation
-Usage
+->Usage
 Contributing
 License
 # Introduction
