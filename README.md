@@ -11,7 +11,7 @@ Prerequisites
 ->Installation
 ->Usage
 ->Contributing
-License
+->License
 # Introduction
 The News App project is designed to fetch and display news articles from various sources using a free News API. It aims to provide users with a simple and intuitive interface to stay informed about the latest news.
 
